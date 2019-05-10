@@ -1,0 +1,95 @@
+[Sphere.vietorisrips]
+r = 0.45
+divs = 200
+
+[Sphere.witness]
+r = 0.3
+l = 12
+
+[Sphere.lmcdist_km]
+r = 20.0
+k = 12
+
+[Sphere.mahalonobis_km]
+r = 20.0
+k = 12
+
+[Sphere.lmcdist_lmc]
+r = 10.0
+bb = 0.3
+
+[Sphere.mahalonobis_lmc]
+r = 10.0
+bb = 0.3
+
+[TwoMoons.vietorisrips]
+r = 0.3
+divs = 100
+
+[TwoMoons.witness]
+r = 0.2
+l = 70
+divs = 50
+
+[TwoMoons.lmcdist_km]
+r = 10.0
+k = 12
+
+[TwoMoons.mahalonobis_km]
+r = 10.0
+k = 12
+
+[TwoMoons.lmcdist_lmc]
+r = 3.0
+bb = 0.3
+
+[TwoMoons.mahalonobis_lmc]
+r = 3.0
+bb = 0.3
+
+[Circles.witness]
+r = 0.2
+l = 70
+divs = 50
+
+[Circles.vietorisrips]
+r = 0.3
+divs = 100
+
+[Circles.mahalonobis_km]
+r = 10.0
+k = 12
+
+[Circles.mahalonobis_lmc]
+r = 3.0
+bb = 0.3
+
+[OIP300.witness]
+r = 0.4
+l = 50
+hom = 2
+
+[OIP300.mahalonobis_km]
+r = 6.0
+k = 20
+hom = 2
+
+[OIP300.mahalonobis_lmc]
+r = 6.0
+bb = 0.2
+hom = 2
+
+[OIP15.witness]
+r = 0.2
+l = 50
+hom = 2
+
+[OIP15.mahalonobis_km]
+r = 6.0
+k = 20
+hom = 2
+
+[OIP15.mahalonobis_lmc]
+r = 6.0
+bb = -0.3
+hom = 2

@@ -1,0 +1,11 @@
+[deps]
+ClusterComplex = "a4b5195f-7e50-4300-9f38-3baf1bf3ac9e"
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+LMCLUS = "173e3a66-dd8a-5f2e-8a96-8b7ddc4d534d"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+LinearManifoldCluster = "bbce7156-959c-439b-994c-a81441c91ab7"
+MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
+PGFPlots = "3b7a836e-365b-5785-a47d-02c71176b4aa"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+TOML = "191fdcea-f9f2-43e0-b922-d33f71e2abc3"
